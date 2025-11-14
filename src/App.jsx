@@ -1,11 +1,14 @@
-// App.jsx
-import React from 'react';
+// src/App.jsx
+import React from "react";
+import "./App.css";
 
 function App() {
   return (
-    <div style={{ textAlign: 'center', marginTop: '50px' }}>
-      <h1>Welcome to My React App</h1>
-      <p>This is a basic React component.</p>
+    <div className="container">
+      <div className="card">
+        <h1>Welcome to My App</h1>
+        <button>Get Started</button>
+      </div>
     </div>
   );
 }
