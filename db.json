@@ -1,0 +1,87 @@
+{
+  "auth": [
+    {
+      "id": "43fb",
+      "name": "Dinesh",
+      "email": "dinesh@gmail.com",
+      "password": "dinesh"
+    }
+  ],
+  "users": [
+    {
+      "id": "10",
+      "name": "Aditi Joshi",
+      "age": 26
+    },
+    {
+      "id": "11",
+      "name": "Manish Kulkarni",
+      "age": 32
+    },
+    {
+      "id": "12",
+      "name": "Priya Saini",
+      "age": 23
+    },
+    {
+      "id": "13",
+      "name": "Arjun Das",
+      "age": 31
+    },
+    {
+      "id": "14",
+      "name": "Shruti Rao",
+      "age": 20
+    },
+    {
+      "id": "15",
+      "name": "Rahul Yadav",
+      "age": 27
+    },
+    {
+      "id": "16",
+      "name": "Taniya Mukherjee",
+      "age": 28
+    },
+    {
+      "id": "18",
+      "name": "Lavanya Iyer",
+      "age": 26
+    },
+    {
+      "id": "19",
+      "name": "Ritesh Jain",
+      "age": 34
+    },
+    {
+      "id": "20",
+      "name": "Pooja Desai",
+      "age": 22
+    },
+    {
+      "id": "1c88",
+      "name": "Dinesh",
+      "age": 24
+    },
+    {
+      "id": "315b",
+      "name": "Din",
+      "age": 19
+    },
+    {
+      "id": "c4ff",
+      "name": "Dinesh",
+      "age": 19
+    },
+    {
+      "id": "2187",
+      "name": "rakesh",
+      "age": 32
+    },
+    {
+      "id": "86e2",
+      "name": "DInesh",
+      "age": 23
+    }
+  ]
+}
